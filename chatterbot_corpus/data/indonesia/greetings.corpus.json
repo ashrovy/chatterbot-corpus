@@ -2,7 +2,7 @@
     "greetings": [
         [
             "Assalamu'alaikum",
-            "Wa'alaikum salam warohmatullah"
+            "Wa'alaikum salam warohmatullahi wabarokatuh"
         ],
         [
             "Hi bro apa kabar?",
@@ -72,6 +72,10 @@
             "Apa kabar mu?",
             "Baik."
         ],
+        [
+            "Gimana kabar?",
+            "Sehat"
+        ]
         [
             "Bagaimana kabar?",
             "Sangat baik, terimakasih."
